@@ -84,13 +84,9 @@ For the full version of the website that includes backend functionality with Nod
 
 Contributions are welcome! Please fork the repository and submit a pull request with your changes.
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ## Contact
 
-If you have any questions or feedback, feel free to reach out to me at [your-email@example.com](mailto:your-email@example.com).
+If you have any questions or feedback, feel free to reach out to me at tapfumaneyi.courtney@gmail.com.
 
 
 ![image](https://github.com/user-attachments/assets/a7e4e1fb-dd02-4631-ab36-9bd66a96d604)
