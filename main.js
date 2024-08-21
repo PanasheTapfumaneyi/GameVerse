@@ -221,10 +221,10 @@ function loadPageContent(content) {
 
 
 function loadSignupPage() {
-    const signupContent = `<div class="min-h-screen py-40 bg-[url('/assets/teelback.jpg')] font-anta" >
+    const signupContent = `<div class="min-h-screen py-40 bg-[url('public/assets/teelback.jpg')] font-anta" >
     <div class="container mx-auto">
       <div class="flex flex-col lg:flex-row w-10/12 lg:w-8/12  backdrop-blur rounded-xl mx-auto shadow-lg overflow-hidden">
-        <div class="w-full lg:w-1/2 flex flex-col items-center justify-center p-12 bg-no-repeat bg-cover bg-center" style="background-image: url('/assets/image.jpg');">
+        <div class="w-full lg:w-1/2 flex flex-col items-center justify-center p-12 bg-no-repeat bg-cover bg-center" style="background-image: url('public/assets/image.jpg');">
           <h1 class="text-white text-3xl mb-3">WELCOME TO GAMEVERSE</h1>
           <div>
             <p class="text-white">Already Joined Us?, Log-In <a href="#/login" class="text-teal-500 font-semibold">Here</a></p>
@@ -271,7 +271,7 @@ function loadSignupPage() {
 
 function loadLoginPage() {
     const loginContent = `
-    <div class="min-h-screen py-40 bg-[url('/assets/teelback.jpg')] " >
+    <div class="min-h-screen py-40 bg-[url('public/assets/teelback.jpg')] " >
     <div class="container mx-auto">
     <div class="flex flex-col lg:flex-row w-10/12 lg:w-8/12  backdrop-blur rounded-xl mx-auto shadow-lg overflow-hidden">
       <div class="w-full lg:w-1/2 py-16 px-12">
@@ -298,7 +298,7 @@ function loadLoginPage() {
           
         </form>
       </div>
-      <div class="w-full lg:w-1/2 flex flex-col items-center justify-center p-12 bg-no-repeat bg-cover bg-center" style="background-image: url('/assets/image.jpg');">
+      <div class="w-full lg:w-1/2 flex flex-col items-center justify-center p-12 bg-no-repeat bg-cover bg-center" style="background-image: url('public/assets/image.jpg');">
         <h1 class="text-white text-3xl mb-3">WELCOME TO GAMEVERSE</h1>
         <div>
           <p class="text-white">New Here? <a href="#/signup" class="text-teal-500 font-semibold">Sign Up</a></p>
